@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoMarvel</string>
+    <string name="title_activity_characters_view">CharactersView</string>
+</resources>
