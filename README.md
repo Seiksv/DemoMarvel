@@ -1,4 +1,3 @@
-<img width="303" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/2dce39d2-e3b7-44ec-85e6-e5d4c02f438e">
 # DEMOMARVEL
 
 ## Introduction
