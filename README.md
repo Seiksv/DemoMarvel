@@ -1,4 +1,4 @@
-
+<img width="303" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/2dce39d2-e3b7-44ec-85e6-e5d4c02f438e">
 # DEMOMARVEL
 
 ## Introduction
@@ -30,6 +30,7 @@ For example, the project uses several key libraries:
 - Coroutines: For handling asynchronous tasks.
 - Dagger Hilt: For dependency injection.
 
+
 ## Building the Project
 
 This section provides step-by-step instructions for building your project. 
@@ -40,3 +41,18 @@ and build your project. For example, to build the project, follow these steps:
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
 4. Run the project on an emulator or a physical device.
+
+## Project Screenshots
+
+1. Login (No credentials needed)
+<img width="303" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/3bdba128-0331-4a2e-93e3-570b810e92e8">
+
+2. All characters view (With searchbar, async searchs, statusbar, loading images from cache or network depends if already was loaded, infinity scroll, viewmodel states, compose navigation)
+<img width="305" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/c73e30e4-e14f-40fd-ae29-52ff957bdfaa">
+
+3. Character details (Loading images from cache or network depends if already was loaded, intent for every link, horizontal sections, favorite feature)
+<img width="303" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/cf14d7fa-93b5-4e77-b698-1a46dee77a5b">
+
+4. Favs section (With all the characters marked as favorite)
+<img width="298" alt="image" src="https://github.com/Seiksv/DemoMarvel/assets/38499005/cb48aac7-1ba5-4d34-afa5-b6b3ecb1eaf6">
+
